@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/adminpanel/static/css/main.55252aab.chunk.css",
-    "main.js": "/adminpanel/static/js/main.41c58e7a.chunk.js",
-    "main.js.map": "/adminpanel/static/js/main.41c58e7a.chunk.js.map",
+    "main.css": "/adminpanel/static/css/main.d6a40200.chunk.css",
+    "main.js": "/adminpanel/static/js/main.3ee85ab0.chunk.js",
+    "main.js.map": "/adminpanel/static/js/main.3ee85ab0.chunk.js.map",
     "runtime-main.js": "/adminpanel/static/js/runtime-main.b0688e05.js",
     "runtime-main.js.map": "/adminpanel/static/js/runtime-main.b0688e05.js.map",
     "static/css/2.ca6c0570.chunk.css": "/adminpanel/static/css/2.ca6c0570.chunk.css",
-    "static/js/2.1423fe78.chunk.js": "/adminpanel/static/js/2.1423fe78.chunk.js",
-    "static/js/2.1423fe78.chunk.js.map": "/adminpanel/static/js/2.1423fe78.chunk.js.map",
+    "static/js/2.02d8ff90.chunk.js": "/adminpanel/static/js/2.02d8ff90.chunk.js",
+    "static/js/2.02d8ff90.chunk.js.map": "/adminpanel/static/js/2.02d8ff90.chunk.js.map",
     "index.html": "/adminpanel/index.html",
-    "precache-manifest.cdbbf8b907f2cf6ad31e26cd81e7a449.js": "/adminpanel/precache-manifest.cdbbf8b907f2cf6ad31e26cd81e7a449.js",
+    "precache-manifest.3396a146a0afe2f5cc3fa8e8235d5a3e.js": "/adminpanel/precache-manifest.3396a146a0afe2f5cc3fa8e8235d5a3e.js",
     "service-worker.js": "/adminpanel/service-worker.js",
     "static/css/2.ca6c0570.chunk.css.map": "/adminpanel/static/css/2.ca6c0570.chunk.css.map",
-    "static/css/main.55252aab.chunk.css.map": "/adminpanel/static/css/main.55252aab.chunk.css.map",
-    "static/js/2.1423fe78.chunk.js.LICENSE": "/adminpanel/static/js/2.1423fe78.chunk.js.LICENSE",
+    "static/css/main.d6a40200.chunk.css.map": "/adminpanel/static/css/main.d6a40200.chunk.css.map",
+    "static/js/2.02d8ff90.chunk.js.LICENSE": "/adminpanel/static/js/2.02d8ff90.chunk.js.LICENSE",
     "static/media/mdb.css": "/adminpanel/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/adminpanel/static/media/fa-solid-900.f6121be5.woff2",
     "static/media/fullwarlogo.png": "/adminpanel/static/media/fullwarlogo.f78d4620.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.b0688e05.js",
     "static/css/2.ca6c0570.chunk.css",
-    "static/js/2.1423fe78.chunk.js",
-    "static/css/main.55252aab.chunk.css",
-    "static/js/main.41c58e7a.chunk.js"
+    "static/js/2.02d8ff90.chunk.js",
+    "static/css/main.d6a40200.chunk.css",
+    "static/js/main.3ee85ab0.chunk.js"
   ]
 }
